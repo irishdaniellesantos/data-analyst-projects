@@ -7,7 +7,7 @@ This repository contains my SQL projects focusing on Data Cleaning and Explorato
 **Data Cleaning of Company Layoffs Dataset**
 
 Tools: MySQL, SQL Window Functions, String Functions
-- Cleaned and transformed ~10,000 records of a real-world company layoffs dataset using MySQL.
+- Cleaned and transformed records of a real-world company layoffs dataset using MySQL.
 - Removed duplicates, standardized inconsistent fields, and converted text dates to DATE format to create an analysis-ready dataset.
 - Handled missing/blank values via self-joins and deletions, reducing manual cleaning time and improving data accuracy.
 
